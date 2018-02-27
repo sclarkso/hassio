@@ -17,3 +17,6 @@ sensor:
     zone: "MEDIA,LIVING,MAIN BEDROOM,GUEST"
     url: 10.0.0.110:2025
 ```
+This is what it looks like in Home Assistant:
+
+[Imgur](https://i.imgur.com/8tbQ18i.png)
