@@ -19,4 +19,4 @@ sensor:
 ```
 This is what it looks like in Home Assistant:
 
-[Imgur](https://i.imgur.com/8tbQ18i.png)
+![Imgur](https://i.imgur.com/8tbQ18i.png)
