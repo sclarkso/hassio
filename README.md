@@ -8,3 +8,12 @@ sensor:
     url: 192.168.0.1:2025 (IP Address and Port of Controller)
 ```
 I used mitmproxy/fiddler to track down the url for my controller.
+
+Example of actual code in configuration.yaml:
+
+```
+sensor:
+  - platform: myair
+    zone: "MEDIA,LIVING,MAIN BEDROOM,GUEST"
+    url: 10.0.0.110:2025
+```
